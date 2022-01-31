@@ -9,7 +9,6 @@
 
 - Major languages
 - Frameworks
-- SQl
 - Technologies used
 
 ## Live Demo (if available)
