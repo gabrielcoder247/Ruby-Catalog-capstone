@@ -1,6 +1,11 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+Imagine that you want to keep a record of different types of things you won: books, music albums, movies, and games. This application will help you to keep these thing for future references:
+
+- Add new item (book, music album).
+- Add a lot of information about this item.
+Save of your added items.
+- And in a beautiful and well-organized way!
 
 > Description the project.
 
