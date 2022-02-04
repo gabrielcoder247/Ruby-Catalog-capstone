@@ -1,4 +1,4 @@
-create database catalog_of_things;
+create database ruby_catalog;
 
 CREATE TABLE item(
     id SERIAL PRIMARY KEY,
